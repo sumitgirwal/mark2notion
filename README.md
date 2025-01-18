@@ -3,7 +3,6 @@
 Mark2Notion is a browser extension and web app that allows users to seamlessly save bookmarks directly to their Notion workspace. With an intuitive interface and powerful integration with the Notion API, it simplifies organizing and managing links, ensuring everything is stored in one place.
 
 ## Features
-
 - **Save Bookmarks Instantly:** Capture URLs, titles, and descriptions with a single click.
 - **Custom Tags and Notes:** Add tags and notes to bookmarks for easy organization.
 - **Notion Integration:** Directly save bookmarks to a specific Notion database.
